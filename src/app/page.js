@@ -31,7 +31,7 @@ export default function Home() {
                     <img src="CSR_(4).jpg" alt="" class="h-full w-full object-cover object-center"/>
                   </div>
                   <div class="h-64 w-44 overflow-hidden rounded-lg">
-                    <img src="CSR_(2).jpg" alt="" class="h-full w-full object-cover object-center"/>
+                    <img src="CSR_(11).jpg" alt="" class="h-full w-full object-cover object-center"/>
                   </div>
                 </div>
                 <div class="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
@@ -42,15 +42,15 @@ export default function Home() {
                     <img src="CSR_(5).jpg" alt="" class="h-full w-full object-cover object-center"/>
                   </div>
                   <div class="h-64 w-44 overflow-hidden rounded-lg">
-                    <img src="https://images.unsplash.com/photo-1569937756447-1d44f657dc69?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="" class="h-full w-full object-cover object-center"/>
+                    <img src="CSR_(10).jpg" alt="" class="h-full w-full object-cover object-center"/>
                   </div>
                 </div>
                 <div class="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                   <div class="h-64 w-44 overflow-hidden rounded-lg">
-                    <img src="CSR_(2).jpg" alt="" class="h-full w-full object-cover object-center"/>
+                    <img src="CSR_(7).jpg" alt="" class="h-full w-full object-cover object-center"/>
                   </div>
                   <div class="h-64 w-44 overflow-hidden rounded-lg">
-                    <img src="https://images.unsplash.com/photo-1592036159975-b3e05c5302c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80" alt="" class="h-full w-full object-cover object-center"/>
+                    <img src="CSR_(8).jpg" alt="" class="h-full w-full object-cover object-center"/>
                   </div>
                 </div>
               </div>
@@ -74,29 +74,31 @@ export default function Home() {
                 <div className="mt-6">
                     <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
                         {/* LOGO 1 */}
-                      <li>
-                        <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28" alt="nicsalt2"/>
+                        <li>
+                       <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy4"/>
                       </li>
 
                         {/* LOGO 2 */}
                       <li>
-                      <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28" alt="aflo2"/>
+                      <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28" alt="aflo4"/>
                       </li>
 
                         {/* LOGO 3 */}
-                      <li>
-                       <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy2"/>
+                        <li>
+                        <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28" alt="nicsalt3"/>
                       </li>
+                      
 
                         {/* LOGO 4 */}
                       <li>
-                        <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28" alt="fb992"/>
+                        <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28" alt="fb994"/>
                       </li>
 
                     </ul>
                 </div>
             </div>
         </div>
+
 
 
 
@@ -134,7 +136,7 @@ export default function Home() {
             </svg>
             <span className="relative"></span>
           </span>{' '}
-          GOJEK
+          OJEK ONLINE
         </h2>
         <p className="text-base text-gray-700 md:text-lg">
          MOVI Sangat memperhatikan suatu kerja keras....
@@ -256,8 +258,8 @@ export default function Home() {
                 <div className="mt-6">
                     <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
                         {/* LOGO 1 */}
-                      <li>
-                        <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28" alt="nicsalt3"/>
+                        <li>
+                       <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy4"/>
                       </li>
 
                         {/* LOGO 2 */}
@@ -266,9 +268,10 @@ export default function Home() {
                       </li>
 
                         {/* LOGO 3 */}
-                      <li>
-                       <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy4"/>
+                        <li>
+                        <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28" alt="nicsalt3"/>
                       </li>
+                      
 
                         {/* LOGO 4 */}
                       <li>
@@ -279,6 +282,7 @@ export default function Home() {
                 </div>
             </div>
         </div>
+
 
 
 
@@ -316,7 +320,7 @@ export default function Home() {
             </svg>
             <span className="relative"></span>
           </span>{' '}
-          GOJEK
+          OJEK ONLINE
         </h2>
         <p className="text-base text-gray-700 md:text-lg">
          MOVI Sangat memperhatikan suatu kerja keras....
@@ -411,17 +415,17 @@ export default function Home() {
         <div className="grid grid-cols-2 gap-5">
           <img
             className="object-cover w-full h-56 col-span-2 rounded shadow-sm hover:shadow-2xl"
-            src="https://akcdn.detik.net.id/visual/2015/12/18/270f1892-c789-4775-97ec-10cb8a325649_169.jpg?w=650?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+            src="CSR_(11).jpg?w=650?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
             alt="hallo"
           />
           <img
             className="object-cover w-full h-48 rounded shadow-sm hover:shadow-2xl"
-            src="https://greennetwork.id/wp-content/uploads/sites/2/2021/12/Gojek-1024x504.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+            src="CSR_(7).jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
             alt="hallo"
           />
           <img
             className="object-cover w-full h-48 rounded shadow-sm hover:shadow-2xl"
-            src="https://assets.hops.id/crop/0x0:0x0/750x500/webp/photo/2022/04/07/1239340314.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+            src="CSR_(8).jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
             alt="hallo"
           />
         </div>
@@ -438,29 +442,31 @@ export default function Home() {
                 <div className="mt-6">
                     <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
                         {/* LOGO 1 */}
-                      <li>
-                        <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28" alt="nicsal1"/>
+                        <li>
+                       <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy4"/>
                       </li>
 
                         {/* LOGO 2 */}
                       <li>
-                      <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28" alt="aflo1"/>
+                      <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28" alt="aflo4"/>
                       </li>
 
                         {/* LOGO 3 */}
-                      <li>
-                       <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy1"/>
+                        <li>
+                        <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28" alt="nicsalt3"/>
                       </li>
+                      
 
                         {/* LOGO 4 */}
                       <li>
-                        <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28" alt="fb991"/>
+                        <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28" alt="fb994"/>
                       </li>
 
                     </ul>
                 </div>
             </div>
         </div>
+
 
 
 
