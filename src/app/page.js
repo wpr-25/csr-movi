@@ -28,18 +28,18 @@ export default function Home() {
               <div class="flex items-center space-x-6 lg:space-x-8">
                 <div class="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                   <div class="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100">
-                    <img src="https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="" class="h-full w-full object-cover object-center"/>
+                    <img src="CSR_(4).jpg" alt="" class="h-full w-full object-cover object-center"/>
                   </div>
                   <div class="h-64 w-44 overflow-hidden rounded-lg">
-                    <img src="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="" class="h-full w-full object-cover object-center"/>
+                    <img src="CSR_(2).jpg" alt="" class="h-full w-full object-cover object-center"/>
                   </div>
                 </div>
                 <div class="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                   <div class="h-64 w-44 overflow-hidden rounded-lg">
-                    <img src="https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=749&q=80" alt="" class="h-full w-full object-cover object-center"/>
+                    <img src="CSR_(2).jpg" alt="" class="h-full w-full object-cover object-center"/>
                   </div>
                   <div class="h-64 w-44 overflow-hidden rounded-lg">
-                    <img src="https://images.unsplash.com/photo-1524601500432-1e1a4c71d692?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80" alt="" class="h-full w-full object-cover object-center"/>
+                    <img src="CSR_(5).jpg" alt="" class="h-full w-full object-cover object-center"/>
                   </div>
                   <div class="h-64 w-44 overflow-hidden rounded-lg">
                     <img src="https://images.unsplash.com/photo-1569937756447-1d44f657dc69?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80" alt="" class="h-full w-full object-cover object-center"/>
@@ -47,7 +47,7 @@ export default function Home() {
                 </div>
                 <div class="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                   <div class="h-64 w-44 overflow-hidden rounded-lg">
-                    <img src="https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="" class="h-full w-full object-cover object-center"/>
+                    <img src="CSR_(2).jpg" alt="" class="h-full w-full object-cover object-center"/>
                   </div>
                   <div class="h-64 w-44 overflow-hidden rounded-lg">
                     <img src="https://images.unsplash.com/photo-1592036159975-b3e05c5302c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80" alt="" class="h-full w-full object-cover object-center"/>
@@ -228,18 +228,18 @@ export default function Home() {
         </div>
         <div className="grid grid-cols-2 gap-5">
           <img
-            className="object-cover w-full h-56 col-span-2 rounded shadow-lg"
-            src="https://akcdn.detik.net.id/visual/2015/12/18/270f1892-c789-4775-97ec-10cb8a325649_169.jpg?w=650?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+            className="object-cover w-full h-58 col-span-2 rounded shadow-lg"
+            src="CSR_(5).jpg?w=650?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
             alt="hello"
           />
           <img
             className="object-cover w-full h-48 rounded shadow-lg"
-            src="https://greennetwork.id/wp-content/uploads/sites/2/2021/12/Gojek-1024x504.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+            src="CSR_(1).jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
             alt="hello"
           />
           <img
             className="object-cover w-full h-48 rounded shadow-lg"
-            src="https://assets.hops.id/crop/0x0:0x0/750x500/webp/photo/2022/04/07/1239340314.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+            src="CSR_(2).jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
             alt="hello"
           />
         </div>
@@ -468,7 +468,7 @@ export default function Home() {
       <div className="grid gap-8 lg:grid-cols-3 sm:max-w-sm sm:mx-auto lg:max-w-full">
         <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm hover:shadow-2xl">
           <img
-            src="https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/1/19/7b0a6351-cae3-4908-a80f-f3cab801397e.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500"
+            src="https://cf.shopee.co.id/file/sg-11134201-22110-q41n4mvenejvc9?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500"
             className="object-cover w-full h-64"
             alt="hallo"
           />
@@ -490,7 +490,7 @@ export default function Home() {
               title="Visit the East"
               className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
             >
-              KUY GOX
+              KUY Podlott
             </a>
             <p className="mb-2 text-gray-700">
               Sed ut perspiciatis unde omnis iste natus error sit sed quia
@@ -507,7 +507,7 @@ export default function Home() {
         </div>
         <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm hover:shadow-2xl">
           <img
-            src="https://cf.shopee.co.id/file/sg-11134201-22110-brwr91hinejve6?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+            src="https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/1/19/7b0a6351-cae3-4908-a80f-f3cab801397e.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
             className="object-cover w-full h-64"
             alt="hallo"
           />
@@ -529,7 +529,7 @@ export default function Home() {
               title="Simple is better"
               className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
             >
-              KUY SAIK
+              KUY GOX
             </Link>
             <p className="mb-2 text-gray-700">
               Sed ut perspiciatis unde omnis iste natus error sit sed quia
@@ -546,7 +546,7 @@ export default function Home() {
         </div>
         <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm hover:shadow-2xl">
           <img
-            src="https://id-test-11.slatic.net/p/8800316e9106c151265bafdf767b0c65.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+            src="https://cf.shopee.co.id/file/sg-11134201-22110-brwr91hinejve6?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
             className="object-cover w-full h-64"
             alt="hallo"
           />
@@ -568,7 +568,7 @@ export default function Home() {
               title="Film It!"
               className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
             >
-              AFLO JOY 
+              KUY SAIK
             </Link>
             <p className="mb-2 text-gray-700">
               Sed ut perspiciatis unde omnis iste natus error sit sed quia
