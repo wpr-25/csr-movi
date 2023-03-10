@@ -75,22 +75,22 @@ export default function Home() {
                     <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
                         {/* LOGO 1 */}
                       <li>
-                        <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28"/>
+                        <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28" alt="nicsalt2"/>
                       </li>
 
                         {/* LOGO 2 */}
                       <li>
-                      <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28"/>
+                      <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28" alt="aflo2"/>
                       </li>
 
                         {/* LOGO 3 */}
                       <li>
-                       <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28"/>
+                       <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy2"/>
                       </li>
 
                         {/* LOGO 4 */}
                       <li>
-                        <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28"/>
+                        <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28" alt="fb992"/>
                       </li>
 
                     </ul>
@@ -230,17 +230,17 @@ export default function Home() {
           <img
             className="object-cover w-full h-56 col-span-2 rounded shadow-lg"
             src="https://akcdn.detik.net.id/visual/2015/12/18/270f1892-c789-4775-97ec-10cb8a325649_169.jpg?w=650?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
-            alt=""
+            alt="hello"
           />
           <img
             className="object-cover w-full h-48 rounded shadow-lg"
             src="https://greennetwork.id/wp-content/uploads/sites/2/2021/12/Gojek-1024x504.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
-            alt=""
+            alt="hello"
           />
           <img
             className="object-cover w-full h-48 rounded shadow-lg"
             src="https://assets.hops.id/crop/0x0:0x0/750x500/webp/photo/2022/04/07/1239340314.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
-            alt=""
+            alt="hello"
           />
         </div>
       </div>
@@ -257,22 +257,22 @@ export default function Home() {
                     <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
                         {/* LOGO 1 */}
                       <li>
-                        <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28"/>
+                        <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28" alt="nicsalt3"/>
                       </li>
 
                         {/* LOGO 2 */}
                       <li>
-                      <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28"/>
+                      <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28" alt="aflo4"/>
                       </li>
 
                         {/* LOGO 3 */}
                       <li>
-                       <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28"/>
+                       <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy4"/>
                       </li>
 
                         {/* LOGO 4 */}
                       <li>
-                        <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28"/>
+                        <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28" alt="fb994"/>
                       </li>
 
                     </ul>
@@ -410,19 +410,19 @@ export default function Home() {
         </div>
         <div className="grid grid-cols-2 gap-5">
           <img
-            className="object-cover w-full h-56 col-span-2 rounded shadow-lg"
+            className="object-cover w-full h-56 col-span-2 rounded shadow-sm hover:shadow-2xl"
             src="https://akcdn.detik.net.id/visual/2015/12/18/270f1892-c789-4775-97ec-10cb8a325649_169.jpg?w=650?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
-            alt=""
+            alt="hallo"
           />
           <img
-            className="object-cover w-full h-48 rounded shadow-lg"
+            className="object-cover w-full h-48 rounded shadow-sm hover:shadow-2xl"
             src="https://greennetwork.id/wp-content/uploads/sites/2/2021/12/Gojek-1024x504.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
-            alt=""
+            alt="hallo"
           />
           <img
-            className="object-cover w-full h-48 rounded shadow-lg"
+            className="object-cover w-full h-48 rounded shadow-sm hover:shadow-2xl"
             src="https://assets.hops.id/crop/0x0:0x0/750x500/webp/photo/2022/04/07/1239340314.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
-            alt=""
+            alt="hallo"
           />
         </div>
       </div>
@@ -439,22 +439,22 @@ export default function Home() {
                     <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
                         {/* LOGO 1 */}
                       <li>
-                        <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28"/>
+                        <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28" alt="nicsal1"/>
                       </li>
 
                         {/* LOGO 2 */}
                       <li>
-                      <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28"/>
+                      <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28" alt="aflo1"/>
                       </li>
 
                         {/* LOGO 3 */}
                       <li>
-                       <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28"/>
+                       <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy1"/>
                       </li>
 
                         {/* LOGO 4 */}
                       <li>
-                        <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28"/>
+                        <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28" alt="fb991"/>
                       </li>
 
                     </ul>
@@ -464,8 +464,131 @@ export default function Home() {
 
 
 
+        <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+      <div className="grid gap-8 lg:grid-cols-3 sm:max-w-sm sm:mx-auto lg:max-w-full">
+        <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm hover:shadow-2xl">
+          <img
+            src="https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/1/19/7b0a6351-cae3-4908-a80f-f3cab801397e.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500"
+            className="object-cover w-full h-64"
+            alt="hallo"
+          />
+          <div className="p-5 border border-t-0">
+            <p className="mb-3 text-xs font-semibold tracking-wide uppercase">
+              <a
+                href="/"
+                className="transition-colors duration-200 text-blue-gray-900 hover:text-deep-purple-accent-700"
+                aria-label="Tanggal acara"
+                title="tanggal"
+              >
+                Tanggal
+              </a>
+              <span className="text-gray-600">— 28 Dec 2020</span>
+            </p>
+            <a
+              href="/"
+              aria-label="Category"
+              title="Visit the East"
+              className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
+            >
+              KUY GOX
+            </a>
+            <p className="mb-2 text-gray-700">
+              Sed ut perspiciatis unde omnis iste natus error sit sed quia
+              consequuntur magni voluptatem doloremque.
+            </p>
+            <a
+              href="/"
+              aria-label=""
+              className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
+            >
+              Learn more
+            </a>
+          </div>
+        </div>
+        <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm hover:shadow-2xl">
+          <img
+            src="https://cf.shopee.co.id/file/sg-11134201-22110-brwr91hinejve6?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+            className="object-cover w-full h-64"
+            alt="hallo"
+          />
+          <div className="p-5 border border-t-0">
+            <p className="mb-3 text-xs font-semibold tracking-wide uppercase">
+              <a
+                href="/"
+                className="transition-colors duration-200 text-blue-gray-900 hover:text-deep-purple-accent-700"
+                aria-label="Tanggal acara"
+                title="tanggal"
+              >
+                tanggal
+              </a>
+              <span className="text-gray-600">— 03 Maret 2023</span>
+            </p>
+            <Link
+              href="/"
+              aria-label="Category"
+              title="Simple is better"
+              className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
+            >
+              KUY SAIK
+            </Link>
+            <p className="mb-2 text-gray-700">
+              Sed ut perspiciatis unde omnis iste natus error sit sed quia
+              consequuntur magni voluptatem doloremque.
+            </p>
+            <Link
+              href="/"
+              aria-label=""
+              className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
+            >
+              Learn more
+            </Link>
+          </div>
+        </div>
+        <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm hover:shadow-2xl">
+          <img
+            src="https://id-test-11.slatic.net/p/8800316e9106c151265bafdf767b0c65.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+            className="object-cover w-full h-64"
+            alt="hallo"
+          />
+          <div className="p-5 border border-t-0">
+            <p className="mb-3 text-xs font-semibold tracking-wide uppercase">
+              <a
+                href="/"
+                className="transition-colors duration-200 text-blue-gray-900 hover:text-deep-purple-accent-700"
+                aria-label="Tanggal acara"
+                title="tanggal"
+              >
+                Tanggal
+              </a>
+              <span className="text-gray-600">— 28 Dec 2020</span>
+            </p>
+            <Link
+              href="/"
+              aria-label="Category"
+              title="Film It!"
+              className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
+            >
+              AFLO JOY 
+            </Link>
+            <p className="mb-2 text-gray-700">
+              Sed ut perspiciatis unde omnis iste natus error sit sed quia
+              consequuntur magni voluptatem doloremque.
+            </p>
+            <a
+              href="/"
+              aria-label=""
+              className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
+            >
+              Learn more
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
 
-    <div><iframe src="https://giphy.com/embed/G7MMj69Bg7mrnP1MzA" width="100%" height="100%"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
+
+    <div><iframe src="https://giphy.com/embed/G7MMj69Bg7mrnP1MzA" width="100%" height="100%"  frameBorder="0" class="giphy-embed" allowFullScreen>love</iframe></div>
 
           </div>
         </div>
