@@ -64,39 +64,47 @@ export default function Home() {
 
 
 
-<div className="py-14">
+<div className="py-20">
             <div className="max-w-screen-xl mx-auto px-4 md:px-8">
                 <h3 className="font-semibold text-base text-black text-center">
-                    Siap Menemani Anda
+                   
                 </h3>
                 <div className="mt-6">
                     <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
-                        {/* LOGO 1 */}
+                        {/* LOGO kuy */}
                         <li>
                        <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy4"/>
                       </li>
-                        {/* LOGO 2 */}
+                        {/* LOGO aflo */}
                       <li>
                       <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28" alt="aflo4"/>
                       </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div className="pb-16">
-            <div className="max-w-screen-xl mx-auto px-4 md:px-8">
-                
-                <div className="mt-6">
-                    <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
-                        {/* LOGO brand liquid */}
-                        <li>
-                        <img src="logo liquid.png" className="w-96" alt="nicsalt3"/>
+                       {/* LOGO sckub */}
+                       <li>
+                      <img src="Skcub.png" className="w-28" alt="sckub"/>
                       </li>
-                      
+                       {/* LOGO komodo */}
+                       <li>
+                      <img src="Komodo Breakfast.png" className="w-28" alt="komodo"/>
+                      </li>
+                       {/* LOGO iswitch */}
+                       <li>
+                      <img src="iSWTCH.png" className="w-28" alt="iswitch"/>
+                      </li>
+                      {/*LOGO District */}
+                      <li>
+                        <img src="District One21.png" className="w-28" alt="district"/>
+                      </li>
+                      {/*LOGO Fivepawns */}
+                      <li>
+                        <img src="Five Pawns.png" className="w-28" alt="fivepawns"/>
+                      </li>
                     </ul>
                 </div>
             </div>
         </div>
+
+       
         <div className="">
             <div className="max-w-screen-xl mx-auto px-4 md:px-8">
                 
@@ -112,7 +120,6 @@ export default function Home() {
                       <li>
                         <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28" alt="fb994"/>
                       </li>
-
                     </ul>
                 </div>
             </div>
@@ -152,10 +159,9 @@ export default function Home() {
             <span className="relative"></span>
           </span>{' '}
           CSR Ojek Online 
-          <br/>Menuju Perubahan
         </h2>
         <p className="text-base text-gray-700 md:text-lg">
-         MOVI Sangat memperhatikan suatu kerja keras....
+         Menuju Perubahan
         </p>
       </div>
       <div className="grid max-w-screen-lg gap-8 lg:grid-cols-2 sm:mx-auto">
@@ -180,10 +186,10 @@ export default function Home() {
             </div>
             <div>
               <h6 className="mb-2 font-semibold leading-5">
-                Berterimakasih
+              Apresiasi
               </h6>
               <p className="text-sm text-gray-900">
-               Terimakasih Kepada Gojek yang sudah turut membantu MOVI mengirimkan produk Kami.
+              Ungkapan terima kasih untuk ojek online karena telah menjadi bagian dalam pelayanan MOVI kepada pelanggan.
               </p>
               <hr className="w-full my-6 border-gray-300" />
             </div>
@@ -211,36 +217,9 @@ export default function Home() {
               Edukasi
               </h6>
               <p className="text-sm text-gray-900">
-              Memberikan sebuah edukasi mengenai Rokok Elektrik agar bisa merokok dengan lebih sehat lagi
+              Memberikan pengalam baru dan sedikit pelajaran yang berharga untuk memulai sebuah perubahan dengan mengenal lebih dalam tentang Rokok Elektrik dari fungsi sampai kepada manfaatnya.
               </p>
               <hr className="w-full my-6 border-gray-300" />
-            </div>
-          </div>
-          <div className="flex">
-            <div className="mr-4">
-              <div className="flex items-center justify-center w-10 h-10 mb-3 rounded-full bg-indigo-50">
-                <svg
-                  className="w-8 h-8 text-deep-purple-accent-400"
-                  stroke="currentColor"
-                  viewBox="0 0 52 52"
-                >
-                  <polygon
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    fill="none"
-                    points="29 13 14 29 25 29 23 39 38 23 27 23"
-                  />
-                </svg>
-              </div>
-            </div>
-            <div>
-              <h6 className="mb-2 font-semibold leading-5">
-                Peluk Hangat
-              </h6>
-              <p className="text-sm text-gray-900">
-               Kami selalu mendukung Gojek untuk selalu solid dan selalu menjadi Kawan MOVI
-              </p>
             </div>
           </div>
         </div>
@@ -265,39 +244,47 @@ export default function Home() {
     </div>
 
 
-    <div className="py-14">
+    <div className="py-20">
             <div className="max-w-screen-xl mx-auto px-4 md:px-8">
                 <h3 className="font-semibold text-base text-black text-center">
-                    Siap Menemani Anda
+                   
                 </h3>
                 <div className="mt-6">
                     <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
-                        {/* LOGO 1 */}
+                        {/* LOGO kuy */}
                         <li>
                        <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy4"/>
                       </li>
-                        {/* LOGO 2 */}
+                        {/* LOGO aflo */}
                       <li>
                       <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28" alt="aflo4"/>
                       </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div className="pb-16">
-            <div className="max-w-screen-xl mx-auto px-4 md:px-8">
-                
-                <div className="mt-6">
-                    <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
-                        {/* LOGO brand liquid */}
-                        <li>
-                        <img src="logo liquid.png" className="w-96" alt="nicsalt3"/>
+                       {/* LOGO sckub */}
+                       <li>
+                      <img src="Skcub.png" className="w-28" alt="sckub"/>
                       </li>
-                      
+                       {/* LOGO komodo */}
+                       <li>
+                      <img src="Komodo Breakfast.png" className="w-28" alt="komodo"/>
+                      </li>
+                       {/* LOGO iswitch */}
+                       <li>
+                      <img src="iSWTCH.png" className="w-28" alt="iswitch"/>
+                      </li>
+                      {/*LOGO District */}
+                      <li>
+                        <img src="District One21.png" className="w-28" alt="district"/>
+                      </li>
+                      {/*LOGO Fivepawns */}
+                      <li>
+                        <img src="Five Pawns.png" className="w-28" alt="fivepawns"/>
+                      </li>
                     </ul>
                 </div>
             </div>
         </div>
+
+       
         <div className="">
             <div className="max-w-screen-xl mx-auto px-4 md:px-8">
                 
@@ -313,7 +300,6 @@ export default function Home() {
                       <li>
                         <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28" alt="fb994"/>
                       </li>
-
                     </ul>
                 </div>
             </div>
