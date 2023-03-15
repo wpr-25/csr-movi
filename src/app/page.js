@@ -15,10 +15,8 @@ export default function Home() {
     <div class="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
       <div class="sm:max-w-lg">
         <h1 class="font text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Corporate Social Responsibility</h1>
-        <p class="mt-4 text-xl text-black">Ministry Of VapeIndonesia Peduli dengan segala kegiatan Kemanusiaan dan ingin selalu dekat dengan kalian.</p>
-        <br/>
-        <p className="text-base">-Peluk Hangat</p>
-        <p className="text-xl px-1">MOVI</p>
+        <p class="mt-4 text-xl text-black text-justify">Ministry Of Vape Indonesia memiliki komitmen peduli akan lingkungan sekitar, beberapa kegiatan kemanusiaan dan membantu menuju perubahan untuk menjadi lebih baik. Hal ini juga membuat kami semakin dekat dengan kalian.</p>
+        
       </div>
       <div>
         <div class="mt-10">
@@ -77,19 +75,40 @@ export default function Home() {
                         <li>
                        <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy4"/>
                       </li>
-
                         {/* LOGO 2 */}
                       <li>
                       <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28" alt="aflo4"/>
                       </li>
-
-                        {/* LOGO 3 */}
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div className="pb-16">
+            <div className="max-w-screen-xl mx-auto px-4 md:px-8">
+                
+                <div className="mt-6">
+                    <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
+                        {/* LOGO brand liquid */}
+                        <li>
+                        <img src="logo liquid.png" className="w-96" alt="nicsalt3"/>
+                      </li>
+                      
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div className="">
+            <div className="max-w-screen-xl mx-auto px-4 md:px-8">
+                
+                <div className="mt-6">
+                    <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
+                        {/* LOGO nicsalt */}
                         <li>
                         <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28" alt="nicsalt3"/>
                       </li>
                       
 
-                        {/* LOGO 4 */}
+                        {/* LOGO fb99 */}
                       <li>
                         <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28" alt="fb994"/>
                       </li>
@@ -98,10 +117,6 @@ export default function Home() {
                 </div>
             </div>
         </div>
-
-
-
-
 
 <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
       <div className="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
@@ -136,7 +151,8 @@ export default function Home() {
             </svg>
             <span className="relative"></span>
           </span>{' '}
-          OJEK ONLINE
+          CSR Ojek Online 
+          <br/>Menuju Perubahan
         </h2>
         <p className="text-base text-gray-700 md:text-lg">
          MOVI Sangat memperhatikan suatu kerja keras....
@@ -249,7 +265,6 @@ export default function Home() {
     </div>
 
 
-
     <div className="py-14">
             <div className="max-w-screen-xl mx-auto px-4 md:px-8">
                 <h3 className="font-semibold text-base text-black text-center">
@@ -261,203 +276,40 @@ export default function Home() {
                         <li>
                        <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy4"/>
                       </li>
-
                         {/* LOGO 2 */}
                       <li>
                       <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28" alt="aflo4"/>
                       </li>
-
-                        {/* LOGO 3 */}
-                        <li>
-                        <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28" alt="nicsalt3"/>
-                      </li>
-                      
-
-                        {/* LOGO 4 */}
-                      <li>
-                        <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28" alt="fb994"/>
-                      </li>
-
                     </ul>
                 </div>
             </div>
         </div>
-
-
-
-
-
-        <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
-      <div className="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
-        <div>
-          <p className="inline-block px-3 py-px mb-4 text-xs font-semibold tracking-wider text-black uppercase rounded-full bg-teal-accent-400">
-          Terimakasih
-          </p>
-        </div>
-        <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
-          <span className="relative inline-block">
-            <svg
-              viewBox="0 0 52 24"
-              fill="currentColor"
-              className="absolute top-0 left-0 z-0 hidden w-32 -mt-8 -ml-20 text-blue-gray-100 lg:w-32 lg:-ml-28 lg:-mt-10 sm:block"
-            >
-              <defs>
-                <pattern
-                  id="3071a3ad-db4a-4cbe-ac9a-47850b69e4b7"
-                  x="0"
-                  y="0"
-                  width=".135"
-                  height=".30"
-                >
-                  <circle cx="1" cy="1" r=".7" />
-                </pattern>
-              </defs>
-              <rect
-                fill="url(#3071a3ad-db4a-4cbe-ac9a-47850b69e4b7)"
-                width="52"
-                height="24"
-              />
-            </svg>
-            <span className="relative"></span>
-          </span>{' '}
-          OJEK ONLINE
-        </h2>
-        <p className="text-base text-gray-700 md:text-lg">
-         MOVI Sangat memperhatikan suatu kerja keras....
-        </p>
-      </div>
-      <div className="grid max-w-screen-lg gap-8 lg:grid-cols-2 sm:mx-auto">
-        <div className="flex flex-col justify-center">
-          <div className="flex">
-            <div className="mr-4">
-              <div className="flex items-center justify-center w-10 h-10 mb-3 rounded-full bg-indigo-50">
-                <svg
-                  className="w-8 h-8 text-deep-purple-accent-400"
-                  stroke="currentColor"
-                  viewBox="0 0 52 52"
-                >
-                  <polygon
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    fill="none"
-                    points="29 13 14 29 25 29 23 39 38 23 27 23"
-                  />
-                </svg>
-              </div>
-            </div>
-            <div>
-              <h6 className="mb-2 font-semibold leading-5">
-                Berterimakasih
-              </h6>
-              <p className="text-sm text-gray-900">
-               Terimakasih Kepada Gojek yang sudah turut membantu MOVI mengirimkan produk Kami.
-              </p>
-              <hr className="w-full my-6 border-gray-300" />
-            </div>
-          </div>
-          <div className="flex">
-            <div className="mr-4">
-              <div className="flex items-center justify-center w-10 h-10 mb-3 rounded-full bg-indigo-50">
-                <svg
-                  className="w-8 h-8 text-deep-purple-accent-400"
-                  stroke="currentColor"
-                  viewBox="0 0 52 52"
-                >
-                  <polygon
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    fill="none"
-                    points="29 13 14 29 25 29 23 39 38 23 27 23"
-                  />
-                </svg>
-              </div>
-            </div>
-            <div>
-              <h6 className="mb-2 font-semibold leading-5">
-              Edukasi
-              </h6>
-              <p className="text-sm text-gray-900">
-              Memberikan sebuah edukasi mengenai Rokok Elektrik agar bisa merokok dengan lebih sehat lagi
-              </p>
-              <hr className="w-full my-6 border-gray-300" />
-            </div>
-          </div>
-          <div className="flex">
-            <div className="mr-4">
-              <div className="flex items-center justify-center w-10 h-10 mb-3 rounded-full bg-indigo-50">
-                <svg
-                  className="w-8 h-8 text-deep-purple-accent-400"
-                  stroke="currentColor"
-                  viewBox="0 0 52 52"
-                >
-                  <polygon
-                    strokeWidth="3"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    fill="none"
-                    points="29 13 14 29 25 29 23 39 38 23 27 23"
-                  />
-                </svg>
-              </div>
-            </div>
-            <div>
-              <h6 className="mb-2 font-semibold leading-5">
-                Peluk Hangat
-              </h6>
-              <p className="text-sm text-gray-900">
-               Kami selalu mendukung Gojek untuk selalu solid dan selalu menjadi Kawan MOVI
-              </p>
-            </div>
-          </div>
-        </div>
-        <div className="grid grid-cols-2 gap-5">
-          <img
-            className="object-cover w-full h-56 col-span-2 rounded shadow-sm hover:shadow-2xl"
-            src="CSR_(11).jpg?w=650?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
-            alt="hallo"
-          />
-          <img
-            className="object-cover w-full h-48 rounded shadow-sm hover:shadow-2xl"
-            src="CSR_(7).jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
-            alt="hallo"
-          />
-          <img
-            className="object-cover w-full h-48 rounded shadow-sm hover:shadow-2xl"
-            src="CSR_(8).jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
-            alt="hallo"
-          />
-        </div>
-      </div>
-    </div>
-
-
-
-    <div className="py-14">
+        <div className="pb-16">
             <div className="max-w-screen-xl mx-auto px-4 md:px-8">
-                <h3 className="font-semibold text-base text-black text-center">
-                    Siap Menemani Anda
-                </h3>
+                
                 <div className="mt-6">
                     <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
-                        {/* LOGO 1 */}
+                        {/* LOGO brand liquid */}
                         <li>
-                       <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy4"/>
+                        <img src="logo liquid.png" className="w-96" alt="nicsalt3"/>
                       </li>
-
-                        {/* LOGO 2 */}
-                      <li>
-                      <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28" alt="aflo4"/>
-                      </li>
-
-                        {/* LOGO 3 */}
+                      
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div className="">
+            <div className="max-w-screen-xl mx-auto px-4 md:px-8">
+                
+                <div className="mt-6">
+                    <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
+                        {/* LOGO nicsalt */}
                         <li>
                         <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28" alt="nicsalt3"/>
                       </li>
                       
 
-                        {/* LOGO 4 */}
+                        {/* LOGO fb99 */}
                       <li>
                         <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28" alt="fb994"/>
                       </li>
@@ -466,8 +318,6 @@ export default function Home() {
                 </div>
             </div>
         </div>
-
-
 
 
         <div className="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
