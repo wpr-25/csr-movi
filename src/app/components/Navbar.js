@@ -90,7 +90,7 @@ export default function Navbar() {
                                         className="flex items-center gap-2 py-4 transition-colors duration-300 hover:text-emerald-500 focus:bg-emerald-50 focus:outline-none focus-visible:outline-none lg:px-8">
                                         <span>
                                             <Link href="https://movi.id/id/shop/">
-                                                Shop Now
+                                                Shop
                                             </Link>
                                         </span>
                                     </div>

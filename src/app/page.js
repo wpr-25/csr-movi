@@ -79,37 +79,6 @@ export default function Home() {
                     <li>
                       <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28" alt="aflo4" />
                     </li>
-                    {/* LOGO sckub */}
-                    <li>
-                      <img src="Skcub.png" className="w-28" alt="sckub" />
-                    </li>
-                    {/* LOGO komodo */}
-                    <li>
-                      <img src="Komodo Breakfast.png" className="w-28" alt="komodo" />
-                    </li>
-                    {/* LOGO iswitch */}
-                    <li>
-                      <img src="iSWTCH.png" className="w-28" alt="iswitch" />
-                    </li>
-                    {/*LOGO District */}
-                    <li>
-                      <img src="District One21.png" className="w-28" alt="district" />
-                    </li>
-                    {/*LOGO Fivepawns */}
-                    <li>
-                      <img src="Five Pawns.png" className="w-28" alt="fivepawns" />
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-
-
-            <div className="">
-              <div className="max-w-screen-xl mx-auto px-4 md:px-8">
-
-                <div className="mt-6">
-                  <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
                     {/* LOGO nicsalt */}
                     <li>
                       <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28" alt="nicsalt3" />
@@ -251,14 +220,7 @@ export default function Home() {
                 </h3>
                 <div className="mt-6">
                   <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
-                    {/* LOGO kuy */}
-                    <li>
-                      <img src="https://movi.id/wp-content/uploads/2022/06/Untitled-2-01-1024x1024.png" className="w-28" alt="kuy4" />
-                    </li>
-                    {/* LOGO aflo */}
-                    <li>
-                      <img src="https://movi.id/Aflo/wp-content/uploads/2022/03/Logo-AFLO-300x222-1.png" className="w-28" alt="aflo4" />
-                    </li>
+                    
                     {/* LOGO sckub */}
                     <li>
                       <img src="Skcub.png" className="w-28" alt="sckub" />
@@ -278,27 +240,6 @@ export default function Home() {
                     {/*LOGO Fivepawns */}
                     <li>
                       <img src="Five Pawns.png" className="w-28" alt="fivepawns" />
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-
-
-            <div className="">
-              <div className="max-w-screen-xl mx-auto px-4 md:px-8">
-
-                <div className="mt-6">
-                  <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
-                    {/* LOGO nicsalt */}
-                    <li>
-                      <img src="https://psl.id/wp-content/uploads/2022/06/nicsallogofinal-01-1024x739.png.webp" className="w-28" alt="nicsalt3" />
-                    </li>
-
-
-                    {/* LOGO fb99 */}
-                    <li>
-                      <img src="https://psl.id/wp-content/uploads/2022/06/fblogofinal-01-1-1024x520.png.webp" className="w-28" alt="fb994" />
                     </li>
                   </ul>
                 </div>
