@@ -428,10 +428,6 @@ export default function Home() {
       </div>
     </div>
 
-
-
-    <div><iframe src="https://giphy.com/embed/G7MMj69Bg7mrnP1MzA" width="100%" height="100%"  frameBorder="0" class="giphy-embed" allowFullScreen title="love">love</iframe></div>
-
           </div>
         </div>
       </div>
