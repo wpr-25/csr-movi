@@ -62,8 +62,6 @@ export default function Home() {
               </div>
             </div>
 
-
-
             <div className="py-20">
               <div className="max-w-screen-xl mx-auto px-4 md:px-8">
                 <h3 className="font-semibold text-base text-black text-center">
@@ -213,6 +211,13 @@ export default function Home() {
             </div>
 
 
+            <div className="max-w-7xl mx-auto">
+              <div>     
+                <video controls={"autoplay"} src="C0047.mp4" className="mx-auto rounded-xl object-center shadow-2xl" width={750} >gojek mewek</video>
+              </div>
+            </div>
+
+
             <div className="py-20">
               <div className="max-w-screen-xl mx-auto px-4 md:px-8">
                 <h3 className="font-semibold text-base text-black text-center">
@@ -220,7 +225,7 @@ export default function Home() {
                 </h3>
                 <div className="mt-6">
                   <ul className="flex gap-x-10 gap-y-6 flex-wrap items-center justify-center md:gap-x-16">
-                    
+
                     {/* LOGO sckub */}
                     <li>
                       <img src="Skcub.png" className="w-28" alt="sckub" />

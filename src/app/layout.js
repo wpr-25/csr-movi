@@ -5,6 +5,13 @@ import './globals.css'
 export const metadata = {
   title: 'CSR MOVI',
   description: 'Ministry Of Vape Indonesia - CSR - Gojek',
+  images: [
+    {
+      url: 'favicon.ico',
+      width: 800,
+      height: 600,
+    },
+  ],
 }
 
 export default function RootLayout({ children }) {
