@@ -34,13 +34,13 @@ export default function Home() {
                             </div>
                             <div class="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                               <div class="h-64 w-44 overflow-hidden rounded-lg">
-                                <img src="CSR_(2).jpg" alt="" class="h-full w-full object-cover object-center" />
+                                <img src="CSR_(2).jpg" alt="" class=" object-cover object-center" />
                               </div>
                               <div class="h-64 w-44 overflow-hidden rounded-lg">
-                                <img src="CSR_(5).jpg" alt="" class="h-full w-full object-cover object-center" />
+                                <img src="MOVI Peduli.png" alt="" class=" object-cover object-center" />
                               </div>
                               <div class="h-64 w-44 overflow-hidden rounded-lg">
-                                <img src="CSR_(10).jpg" alt="" class="h-full w-full object-cover object-center" />
+                                <img src="CSR_(10).jpg" alt="" class="w-48 h-40 rounded-lg object-cover object-center" />
                               </div>
                             </div>
                             <div class="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
@@ -54,8 +54,12 @@ export default function Home() {
                           </div>
                         </div>
                       </div>
-
-                      <Link href="/" class="inline-block rounded-md border border-transparent bg-black py-3 px-8 text-center font-medium text-white hover:bg-sky-400">MOVI</Link>
+                      <div>
+                        <Link href="https://movi.id">
+                          <img src="https://shop.movi.id/img/logos/movi.png" className="h-10" />
+                        </Link>
+                        </div>
+                      
                     </div>
                   </div>
                 </div>
@@ -104,17 +108,17 @@ export default function Home() {
                     <svg
                       viewBox="0 0 52 24"
                       fill="currentColor"
-                      className="absolute top-0 left-0 z-0 hidden w-32 -mt-8 -ml-20 text-blue-gray-100 lg:w-32 lg:-ml-28 lg:-mt-10 sm:block"
+                      className="absolute top-0 left-0 z-0 hidden w-40 -mt-8 -ml-20 text-blue-gray-100 lg:w-32 lg:-ml-38 lg:-mt-10 sm:block"
                     >
                       <defs>
                         <pattern
                           id="3071a3ad-db4a-4cbe-ac9a-47850b69e4b7"
                           x="0"
                           y="0"
-                          width=".135"
+                          width=".160"
                           height=".30"
                         >
-                          <circle cx="1" cy="1" r=".7" />
+                          <circle cx="1" cy="1" r=".8" />
                         </pattern>
                       </defs>
                       <rect
@@ -184,7 +188,7 @@ export default function Home() {
                         Edukasi
                       </h6>
                       <p className="text-sm text-gray-900">
-                        Memberikan pengalam baru dan sedikit pelajaran yang berharga untuk memulai sebuah perubahan dengan mengenal lebih dalam tentang Rokok Elektrik dari fungsi sampai kepada manfaatnya.
+                        Memberikan pengalaman baru dan sedikit pelajaran yang berharga untuk memulai sebuah perubahan dengan mengenal lebih dalam tentang Rokok Elektrik dari fungsi sampai kepada manfaatnya.
                       </p>
                       <hr className="w-full my-6 border-gray-300" />
                     </div>
@@ -212,7 +216,8 @@ export default function Home() {
 
 
             <div className="max-w-7xl mx-auto">
-              <div>     
+              <div className="mx-auto max-w-7xl text-center font-serif text-2xl">Menuju Perubahan</div>
+              <div className="py-4">
                 <video controls={"autoplay"} src="C0047.mp4" className="mx-auto rounded-xl object-center shadow-2xl" width={750} >gojek mewek</video>
               </div>
             </div>
@@ -256,7 +261,7 @@ export default function Home() {
               <div className="grid gap-8 lg:grid-cols-3 sm:max-w-sm sm:mx-auto lg:max-w-full">
                 <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm hover:shadow-2xl">
                   <img
-                    src="https://cf.shopee.co.id/file/sg-11134201-22110-q41n4mvenejvc9?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500"
+                    src="https://images.tokopedia.net/img/cache/500-square/VqbcmM/2022/11/26/eaae69f1-2d6c-48f8-bbae-3aac303b9167.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;w=500"
                     className="object-cover w-full h-64"
                     alt="hallo"
                   />
@@ -278,7 +283,7 @@ export default function Home() {
                       title="Visit the East"
                       className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
                     >
-                      KUY Podlott
+                      AFLO Joy
                     </a>
                     <p className="mb-2 text-gray-700">
                       Sed ut perspiciatis unde omnis iste natus error sit sed quia
@@ -295,7 +300,7 @@ export default function Home() {
                 </div>
                 <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm hover:shadow-2xl">
                   <img
-                    src="https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/1/19/7b0a6351-cae3-4908-a80f-f3cab801397e.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                    src="https://cf.shopee.co.id/file/sg-11134201-22110-q41n4mvenejvc9?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
                     className="object-cover w-full h-64"
                     alt="hallo"
                   />
@@ -317,7 +322,7 @@ export default function Home() {
                       title="Simple is better"
                       className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
                     >
-                      KUY GOX
+                      KUY Podlott
                     </Link>
                     <p className="mb-2 text-gray-700">
                       Sed ut perspiciatis unde omnis iste natus error sit sed quia
@@ -334,7 +339,7 @@ export default function Home() {
                 </div>
                 <div className="overflow-hidden transition-shadow duration-300 bg-white rounded shadow-sm hover:shadow-2xl">
                   <img
-                    src="https://cf.shopee.co.id/file/sg-11134201-22110-brwr91hinejve6?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                    src="https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/1/19/7b0a6351-cae3-4908-a80f-f3cab801397e.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
                     className="object-cover w-full h-64"
                     alt="hallo"
                   />
@@ -356,7 +361,7 @@ export default function Home() {
                       title="Film It!"
                       className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
                     >
-                      KUY SAIK
+                      KUY Gox
                     </Link>
                     <p className="mb-2 text-gray-700">
                       Sed ut perspiciatis unde omnis iste natus error sit sed quia
