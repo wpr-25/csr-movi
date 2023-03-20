@@ -215,13 +215,14 @@ export default function Home() {
             </div>
 
 
-            <div className="max-w-7xl mx-auto">
-              <div className="mx-auto max-w-7xl text-center font-serif text-2xl">Menuju Perubahan</div>
-              <div className="py-4">
-                <video controls={"autoplay"} src="C0047.mp4" className="mx-auto rounded-xl object-center shadow-2xl" width={750} >gojek mewek</video>
-              </div>
-            </div>
 
+            <div className="max-w-7xl mx-auto text-center text-4xl">
+              Text Here
+              <video width={750} height={200} controls={"autoplay"} className="mx-auto rounded-lg py-6">
+                <source  src="C0047.mp4"/>
+                <track src="captions_en.vtt" kind="captions" srclang="en" label="english_captions"/>
+              </video>
+            </div>
 
             <div className="py-20">
               <div className="max-w-screen-xl mx-auto px-4 md:px-8">
