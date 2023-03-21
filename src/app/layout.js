@@ -4,12 +4,12 @@ import './globals.css'
 
 export const metadata = {
   title: 'CSR MOVI',
-  description: 'Ministry Of Vape Indonesia - CSR - Gojek',
+  description: 'Ministry Of Vape Indonesia - CSR - ojek online',
   images: [
     {
       url: 'favicon.ico',
-      width: 800,
-      height: 600,
+      width: 150,
+      height: 150,
     },
   ],
 }

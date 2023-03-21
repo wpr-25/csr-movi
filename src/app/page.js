@@ -214,10 +214,8 @@ export default function Home() {
               </div>
             </div>
 
-
-
             <div className="max-w-7xl mx-auto text-center text-4xl">
-              Text Here
+              APRECIATION
               <video width={750} height={200} controls={"autoplay"} className="mx-auto rounded-lg py-6">
                 <source  src="C0047.mp4"/>
                 <track src="captions_en.vtt" kind="captions" srclang="en" label="english_captions"/>
