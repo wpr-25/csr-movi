@@ -267,7 +267,7 @@ export default function Home() {
                   <div className="p-5 border border-t-0">
                     <p className="mb-3 text-xs font-semibold tracking-wide uppercase">
                       <a
-                        href="/"
+                        href="https://movi.id/id/pod-terbaik-aflo-joy/"
                         className="transition-colors duration-200 text-blue-gray-900 hover:text-deep-purple-accent-700"
                         aria-label="Tanggal acara"
                         title="tanggal"
@@ -277,7 +277,7 @@ export default function Home() {
                       <span className="text-gray-600">— 28 Dec 2020</span>
                     </p>
                     <a
-                      href="/"
+                      href="https://movi.id/id/pod-terbaik-aflo-joy/"
                       aria-label="Category"
                       title="Visit the East"
                       className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
@@ -285,8 +285,7 @@ export default function Home() {
                       AFLO Joy
                     </a>
                     <p className="mb-2 text-gray-700">
-                      Sed ut perspiciatis unde omnis iste natus error sit sed quia
-                      consequuntur magni voluptatem doloremque.
+                      Untuk mengawali langkah besar yang mengantarkan perngguna untuk menurunkan resiko kesehatan sampai dengan 95%, membebaskan pengguna dari TAR, karbondiaoksida dan kandungan-kandungan arsenic yang berbahaya, AFLO adalah alternatif yang lebih baik untuk menikmati nikotin..
                     </p>
                     <a
                       href="/"
@@ -316,7 +315,7 @@ export default function Home() {
                       <span className="text-gray-600">— 03 Maret 2023</span>
                     </p>
                     <Link
-                      href="/"
+                      href="https://movi.id/id/dibawa-bimbim-ke-london-2/"
                       aria-label="Category"
                       title="Simple is better"
                       className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
@@ -324,11 +323,10 @@ export default function Home() {
                       KUY Podlott
                     </Link>
                     <p className="mb-2 text-gray-700">
-                      Sed ut perspiciatis unde omnis iste natus error sit sed quia
-                      consequuntur magni voluptatem doloremque.
+                      Terbaru, kolaborasi ini memperkenalkan Kuy Podlott V3. Di markas Slank, Jl. Potlot, Duren Tiga, Jakarta Selatan para personel Slank, Bimbim, Kakak, Ivanka dan Ridho, memperkenalkan device terbaru Kuy Podlott tersebut..
                     </p>
                     <Link
-                      href="/"
+                      href="https://movi.id/id/dibawa-bimbim-ke-london-2/"
                       aria-label=""
                       className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
                     >
@@ -352,10 +350,10 @@ export default function Home() {
                       >
                         Tanggal
                       </a>
-                      <span className="text-gray-600">— 28 Dec 2020</span>
+                      <span className="text-gray-600">— 23 Januari 2023</span>
                     </p>
                     <Link
-                      href="/"
+                      href="https://movi.id/id/kuy-gox-dari-movi/"
                       aria-label="Category"
                       title="Film It!"
                       className="inline-block mb-3 text-2xl font-bold leading-5 transition-colors duration-200 hover:text-deep-purple-accent-700"
@@ -363,11 +361,10 @@ export default function Home() {
                       KUY Gox
                     </Link>
                     <p className="mb-2 text-gray-700">
-                      Sed ut perspiciatis unde omnis iste natus error sit sed quia
-                      consequuntur magni voluptatem doloremque.
+                      KUY GOX “Go With The Box”, merupakan produk terbaru dari MOVI yang memiliki bentuk yang menarik dan beda dari pod kotak pada umumnya.
                     </p>
                     <a
-                      href="/"
+                      href="https://movi.id/id/kuy-gox-dari-movi/"
                       aria-label=""
                       className="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800"
                     >
